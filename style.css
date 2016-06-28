@@ -1,0 +1,30 @@
+#main{
+	size: 480;
+}
+
+#center{
+	width: 25%;
+	margin: 6px auto;
+
+}
+
+.grid, .gridContainer{
+	padding: 0;
+	margin: 0;
+	height: 29.5px;
+	width: 29.5px;
+	border: 0.5px black solid;
+}
+
+.grid_container{
+	display: inline-block;
+	background-color: #FFF;
+}
+
+.grid{
+	background-color: #FFF;
+}
+
+.drawn{
+	background-color: #000;
+}
